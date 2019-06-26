@@ -1,0 +1,60 @@
+{
+  "name": "@pascaliske/tsconfig",
+  "description": "Shared tsconfig file.",
+  "version": "0.0.0",
+  "license": "MIT",
+  "author": {
+    "name": "Pascal Iske",
+    "email": "info@pascal-iske.de",
+    "url": "https://pascal-iske.de"
+  },
+  "repository": {
+    "url": "https://github.com/pascaliske/tsconfig.git",
+    "type": "git"
+  },
+  "bugs": {
+    "url": "https://github.com/pascaliske/tsconfig/issues"
+  },
+  "keywords": [
+    "ts",
+    "typescript",
+    "tsconfig",
+    "config",
+    "configuration"
+  ],
+  "main": "tsconfig.json",
+  "engines": {
+    "node": ">=8"
+  },
+  "scripts": {
+    "test": "ajv validate -s node_modules/schemastore/src/schemas/json/tsconfig.json -d tsconfig.json",
+    "format": "prettier --write \"tsconfig.json\"",
+    "changelog": "standard-changelog"
+  },
+  "dependencies": {
+    "classnames": "^2.2.6",
+    "tslib": "^1.10.0"
+  },
+  "devDependencies": {
+    "@commitlint/cli": "^8.0.0",
+    "@commitlint/config-conventional": "^8.0.0",
+    "@types/classnames": "^2.2.8",
+    "ajv-cli": "^3.0.0",
+    "ava": "^2.1.0",
+    "husky": "^2.5.0",
+    "lint-staged": "^8.2.1",
+    "nyc": "^14.1.1",
+    "prettier": "^1.18.2",
+    "rollup": "^1.16.2",
+    "rollup-plugin-clear": "^2.0.7",
+    "rollup-plugin-terser": "^5.0.0",
+    "rollup-plugin-typescript2": "^0.21.2",
+    "schemastore": "https://github.com/SchemaStore/schemastore",
+    "snyk": "^1.181.0",
+    "standard-changelog": "^2.0.11",
+    "tslint": "^5.18.0",
+    "tslint-config-prettier": "^1.18.0",
+    "typedoc": "^0.14.2",
+    "typescript": "^3.5.2"
+  }
+}
