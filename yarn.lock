@@ -2448,7 +2448,8 @@ safe-regex@^1.1.0:
 
 "schemastore@https://github.com/SchemaStore/schemastore":
   version "0.0.0"
-  resolved "https://github.com/SchemaStore/schemastore#fcf3f7cea3d7244f0ca3bcea7859ad0cec5d062a"
+  uid fc65dbc17be05c2ef50abe18fcabc4c5ba7d0d5e
+  resolved "https://github.com/SchemaStore/schemastore#fc65dbc17be05c2ef50abe18fcabc4c5ba7d0d5e"
 
 semver-compare@^1.0.0:
   version "1.0.0"
