@@ -35,7 +35,7 @@
   "devDependencies": {
     "@commitlint/cli": "^9.1.1",
     "@commitlint/config-conventional": "^9.1.1",
-    "@pascaliske/prettier-config": "^1.0.2",
+    "@pascaliske/prettier-config": "^1.1.0",
     "ajv-cli": "^3.2.1",
     "husky": "^4.2.5",
     "lint-staged": "^10.2.11",
