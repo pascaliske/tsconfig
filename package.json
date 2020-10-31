@@ -38,7 +38,7 @@
     "@pascaliske/prettier-config": "^1.1.0",
     "ajv-cli": "^3.3.0",
     "husky": "^4.3.0",
-    "lint-staged": "^10.5.0",
+    "lint-staged": "^10.5.1",
     "prettier": "^2.1.2",
     "schemastore": "https://github.com/SchemaStore/schemastore",
     "standard-changelog": "^2.0.24"
