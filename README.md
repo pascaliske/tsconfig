@@ -1,6 +1,6 @@
 # Shared [`tsconfig.json`](tsconfig.json)
 
-[![Build Status](https://travis-ci.com/pascaliske/tsconfig.svg?branch=master)](https://travis-ci.com/pascaliske/tsconfig) [![Dependabot Status](https://api.dependabot.com/badges/status?host=github&repo=pascaliske/tsconfig)](https://dependabot.com)
+[![Build Status](https://img.shields.io/github/workflow/status/pascaliske/tsconfig/Test%20package/master?label=test&style=flat-square)](https://github.com/pascaliske/tsconfig/actions) [![Dependabot Status](https://api.dependabot.com/badges/status?host=github&repo=pascaliske/tsconfig)](https://dependabot.com)
 
 ## Installation
 
