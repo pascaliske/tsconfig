@@ -1,3 +1,12 @@
+## [1.0.5](https://github.com/pascaliske/tsconfig/compare/v1.0.4...v1.0.5) (2021-05-03)
+
+
+### Features
+
+* include json schema url ([f31ade6](https://github.com/pascaliske/tsconfig/commit/f31ade6775a3534d90b0528b12593126309b5cca))
+
+
+
 ## [1.0.4](https://github.com/pascaliske/tsconfig/compare/v1.0.3...v1.0.4) (2019-06-28)
 
 
