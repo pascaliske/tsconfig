@@ -1,3 +1,7 @@
+## [1.0.6](https://github.com/pascaliske/tsconfig/compare/v1.0.5...v1.0.6) (2021-05-25)
+
+
+
 ## [1.0.5](https://github.com/pascaliske/tsconfig/compare/v1.0.4...v1.0.5) (2021-05-03)
 
 
