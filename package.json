@@ -38,7 +38,7 @@
     "@commitlint/cli": "^12.1.4",
     "@commitlint/config-conventional": "^12.1.4",
     "@pascaliske/prettier-config": "^1.1.2",
-    "@rstacruz/bump-cli": "^2.0.0",
+    "@rstacruz/bump-cli": "^2.0.1",
     "ajv-cli": "1.1.2",
     "husky": "^6.0.0",
     "lint-staged": "^11.0.0",
