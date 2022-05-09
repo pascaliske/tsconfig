@@ -40,7 +40,7 @@
     "@pascaliske/prettier-config": "^1.1.5",
     "@rstacruz/bump-cli": "^2.0.1",
     "ajv-cli": "1.1.2",
-    "husky": "^7.0.4",
+    "husky": "^8.0.1",
     "lint-staged": "^12.4.1",
     "prettier": "^2.6.2",
     "schemastore": "https://github.com/SchemaStore/schemastore",
