@@ -1,6 +1,3 @@
 {
-  "tsconfig.json": [
-    "prettier --write",
-    "git add"
-  ]
+  "tsconfig.json": ["prettier --write"]
 }
