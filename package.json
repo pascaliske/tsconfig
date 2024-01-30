@@ -28,7 +28,7 @@
     "node": ">=8"
   },
   "scripts": {
-    "prepare": "husky install",
+    "prepare": "husky",
     "test": "ajv validate -s node_modules/schemastore/src/schemas/json/tsconfig.json -d tsconfig.json",
     "format": "prettier --write \"tsconfig.json\"",
     "version": "bump --yes package.json",
@@ -40,7 +40,7 @@
     "@pascaliske/prettier-config": "^1.2.0",
     "@rstacruz/bump-cli": "^2.0.1",
     "ajv-cli": "1.1.2",
-    "husky": "^9.0.0",
+    "husky": "^9.0.7",
     "lint-staged": "^15.0.0",
     "prettier": "^3.0.0",
     "schemastore": "https://github.com/SchemaStore/schemastore",
